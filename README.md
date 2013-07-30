@@ -1,0 +1,1 @@
+A camera that clicks photos
